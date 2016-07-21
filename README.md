@@ -1,1 +1,1 @@
-# wand
+# Wand Project
